@@ -20,7 +20,7 @@ This project is a responsive QR code card component that displays a QR code with
 - **Accessible** ♿: Semantic HTML and clear text hierarchy for better accessibility.
 
 ## 📸 Screenshots
-<img src="preview.jpg" alt="QR Code Card Desktop" width=600px></img> 
+<img src="preview.png" alt="QR Code Card Desktop" width=600px></img> 
 
 ## 💻 Technologies
 - **HTML5** 🏗️: For semantic structure.
