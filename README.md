@@ -1,4 +1,4 @@
-# [Card_Frontend](https://card-frontend-tau.vercel.app/) 🚀
+# [Card_Frontend](https://card-frontend-nisarg07.netlify.app/) 🚀
 
 A sleek and modern QR code card component built with HTML and CSS, designed to level up your front-end development skills! 🌟 This project showcases a clean, responsive design with a focus on simplicity and visual appeal, inspired by Frontend Mentor's challenges. 🎨
 
@@ -8,7 +8,7 @@ A sleek and modern QR code card component built with HTML and CSS, designed to l
 - [Screenshots](#screenshots) 📸
 - [Technologies](#technologies) 💻
 - [Contributing](#contributing) 🤝
-- [Live Demo](https://card-frontend-tau.vercel.app/) 🌐
+- [Live Demo](https://card-frontend-nisarg07.netlify.app/) 🌐
 
 ## ℹ️ Overview
 This project is a responsive QR code card component that displays a QR code with a call-to-action to visit Frontend Mentor. It uses a minimalist design with a soft color palette, subtle shadows, and rounded corners for a polished look. Perfect for beginners looking to practice HTML and CSS or developers aiming to refine their front-end skills! 🎯
@@ -36,7 +36,7 @@ Contributions are welcome! 🎉 To contribute:
 5. Open a pull request. 📬
 
 ## 🌐 Live Demo
-Check out the live demo of project here. [Card_Frontend](https://card-frontend-tau.vercel.app/)
+Check out the live demo of project here. [Card_Frontend](https://card-frontend-nisarg07.netlify.app/)
 
 ---
 
